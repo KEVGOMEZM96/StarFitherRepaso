@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StarFitherRepaso.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{076CA337-CEA1-434D-8222-8C65C378DE65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StarFitherRepaso.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StarFitherRepasoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6507CE95-76AC-46FC-9445-0E9204AB03CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StarFitherRepaso">
+      <UniqueIdentifier>{CEC5D5F9-497F-4D1A-A593-76957A31B87F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StarFitherRepaso\Bala.cpp">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFitherRepaso\Bala.h">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFitherRepaso\Balilla.cpp">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFitherRepaso\Balilla.h">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StarFitherRepaso\StarFitherRepaso.Build.cs">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StarFitherRepaso\StarFitherRepaso.cpp">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFitherRepaso\StarFitherRepaso.h">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFitherRepaso\StarFitherRepasoGameModeBase.cpp">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFitherRepaso\StarFitherRepasoGameModeBase.h">
+      <Filter>Source\StarFitherRepaso</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

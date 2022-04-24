@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StarFitherRepaso",
+			"Path": "C:\\UE\\StarFitherRepaso\\Source\\StarFitherRepaso.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StarFitherRepasoEditor",
+			"Path": "C:\\UE\\StarFitherRepaso\\Source\\StarFitherRepasoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

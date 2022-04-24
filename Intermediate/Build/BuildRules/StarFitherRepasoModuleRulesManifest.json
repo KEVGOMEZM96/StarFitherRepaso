@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE\\StarFitherRepaso\\Source\\StarFitherRepaso\\StarFitherRepaso.Build.cs",
+		"C:\\UE\\StarFitherRepaso\\Source\\StarFitherRepaso.Target.cs",
+		"C:\\UE\\StarFitherRepaso\\Source\\StarFitherRepasoEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
